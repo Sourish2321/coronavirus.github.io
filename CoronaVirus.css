@@ -1,0 +1,15 @@
+body{
+	background-color:lightgreen;
+}
+h1,h4{
+     color:red;
+ }
+ p{
+  color:blue;
+ }
+.sym{
+	color:red;
+}
+ol,ul{
+	color:blue;
+}
